@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/the__lakshya" target="blank"><img src="https://img.shields.io/twitter/follow/the__lakshya?logo=twitter&style=for-the-badge" alt="the__lakshya" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Android Development**
+- 🌱 I’m currently working **React**
 
 - 📝 I write articles on [https://hashnode.com/@thetarget018](https://hashnode.com/@thetarget018)
 
