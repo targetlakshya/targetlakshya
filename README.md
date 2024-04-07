@@ -7,7 +7,7 @@
 
 - 📝 I write articles on [https://hashnode.com/@thetarget018](https://hashnode.com/@thetarget018)
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **Python, JavaScript, TypeScript**
 
 - 📫 How to reach me **thetarget018@gmail.com**
 
