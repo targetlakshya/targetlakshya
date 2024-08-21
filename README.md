@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **thetarget018@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Lakshya-Resume](https://bit.ly/Lakshya-Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rq3NY6QYkWhzTE6zipRpNM8FaOY2JZuJ/view?usp=sharing](https://drive.google.com/file/d/1rq3NY6QYkWhzTE6zipRpNM8FaOY2JZuJ/view?usp=sharing)
 
-- ⚡ Fun Fact **I am eager to learn New technologies #techicalbanda 🧑‍💻**
+- ⚡ Fun Fact **I am eager to learn New technologies 🧑‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
