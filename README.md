@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thetarget018@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1rq3NY6QYkWhzTE6zipRpNM8FaOY2JZuJ/view?usp=sharing](https://drive.google.com/file/d/1Tj-dGed7AAaa50S8NbeibGeGZ2zRXf-h/view)]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1UdCPMFJrO2kStbqQvavhkVmmesp1mFP0/view?usp=sharing](https://drive.google.com/file/d/1UdCPMFJrO2kStbqQvavhkVmmesp1mFP0/view?usp=sharing)]
 
 - ⚡ Fun Fact **I am eager to learn New technologies 🧑‍💻**
 
