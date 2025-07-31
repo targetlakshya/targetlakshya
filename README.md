@@ -109,18 +109,47 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" height="2" />
 </div>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRmZWQ5ZmM5YmU5OTU2YjU4ZjVhMzJkNzNmOGY4MjU1ZDQ5NTJlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" width="30px" alt="AI"/>&nbsp;***GitHub Commit History***
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRmZWQ5ZmM5YmU5OTU2YjU4ZjVhMzJkNzNmOGY4MjU1ZDQ5NTJlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" width="30px" alt="AI"/>&nbsp;***GitHub Stats & Activity***
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=targetlakshya&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" alt="Lakshya's GitHub Stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=targetlakshya&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=targetlakshya&theme=dark&hide_border=true&stroke=A9FEF7&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="GitHub Streak Stats" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" height="2" />
 </div>
+
+## 🏆 ***GitHub Achievements***
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=targetlakshya&theme=react-dark&bg_color=0d1117&hide_border=true&line=A9FEF7&point=A9FEF7" width="100%" alt="Contribution Graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=targetlakshya&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  </a>
 </div>
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" height="2" />
+</div>
+
+## 📊 ***Contribution Graph***
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=targetlakshya&theme=react-dark&bg_color=0d1117&hide_border=true&line=A9FEF7&point=A9FEF7&color=c9d1d9&area=true&area_color=A9FEF7" width="100%" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" height="2" />
+</div>
+
+## 🎯 ***Additional GitHub Metrics***
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=targetlakshya&theme=github_dark" alt="Repos per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=targetlakshya&theme=github_dark" alt="Most Commit Language" width="32%" />
+</div>
+
+
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" height="2" />
 </div>
