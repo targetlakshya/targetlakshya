@@ -94,7 +94,7 @@
   <a href="https://hashnode.com/@thetarget018" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
   </a>
-  <a href="https://instagram.com/the._.lakshya._" target="_blank">
+  <a href="https://instagram.com/lakshyaborasi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.codechef.com/users/thetarget018" target="_blank">
