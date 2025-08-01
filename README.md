@@ -12,9 +12,9 @@
 
 🎯 **Passionate Python Developer from India**
 
-🌱 **Currently diving deep into:** Advanced Machine Learning & Deep Learning
+🌱 **Currently diving deep into:** Machine Learning and Deep Learning
 
-💡 **Ask me about:** Python, FastAPI, REST APIs, and ML Algorithms
+💡 **Ask me about:** Python, Data Visualisation and ML Algorithms
 
 📧 **Let's connect** 
 
